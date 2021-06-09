@@ -1,0 +1,11 @@
+{
+	"name": "SAFEBUZZ",
+    "website": "https://safebuzz.finance",
+    "description": "SAFEBUZZ is a stablecoin token with high rate reflections",
+    "explorer": "https://bscscan.com/token/0x07e00544dB6ffe8160CB5852FAF463ae39B5513D",
+    "type": "BEP20",
+    "symbol": "SAFEBUZZ",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x07e00544dB6ffe8160CB5852FAF463ae39B5513D"
+}
